@@ -1,0 +1,6 @@
+﻿D:\Programowanie\Visual Studio 2019\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Sebek.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Fiszki.cpp
+D:\Foldery Pulpitowe\Programowanie Projekty\CPP\Fiszki\Fiszki.cpp(230,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Foldery Pulpitowe\Programowanie Projekty\CPP\Fiszki\Fiszki.cpp(322,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Foldery Pulpitowe\Programowanie Projekty\CPP\Fiszki\Fiszki.cpp(609,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Sebek.vcxproj -> D:\Foldery Pulpitowe\Programowanie Projekty\CPP\Fiszki\Debug\Fiszki.exe
