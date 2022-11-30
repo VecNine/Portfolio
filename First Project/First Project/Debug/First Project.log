@@ -1,0 +1,4 @@
+﻿  First Project.cpp
+C:\Users\Wiktor\source\repos\First Project\First Project\First Project.cpp(94,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Wiktor\source\repos\First Project\First Project\First Project.cpp(204,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  First Project.vcxproj -> C:\Users\Wiktor\source\repos\First Project\Debug\First Project.exe
