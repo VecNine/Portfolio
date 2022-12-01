@@ -11,7 +11,7 @@ It was done all by myself, with a small help of the internet.
   My latest project is an app which allows you to make simple flashcards for learning laguanges, called "Fiszki".
 It was done for my friend, that learns all languages that are presented in this app.
 My biggest problem was to add special characters (which I could easily avoid just by using Python).
-My guess is that the console itself couldn't wcin them and I wasn't able to find a way how to fix it. 
+My guess is that the conhost itself couldn't wcin them and I wasn't able to find a way how to fix it. 
   Right now, the app handles all Polish, German, Czech, and Hungarian special characters + some letters from other languages,
 that can be easily written to, and out of .txt files that are created by the app itself and that can be overwritten by the user.
 While making this app, I have learned a lot about Unicode (and how to store them in C++), how to handle files, and how
